@@ -1,0 +1,2 @@
+# PratikHarmonikOrtalamaHesaplayanProgram
+Dizideki sayıların harmonik ortalamasını hesaplayan programı yazınız.
